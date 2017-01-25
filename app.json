@@ -1,0 +1,13 @@
+{
+  "name": "Hello World",
+  "description": "Go Getting Started Example App",
+  "keywords": [
+    "getting-started",
+    "go",
+    "beginning",
+    "first"
+  ],
+  "mount_dir": "src/github.com/user/hello",
+  "website": "https://github.com/Dwhoot/goHelloWorld",
+  "repository": "https://github.com/Dwhoot/goHelloWorld"
+}
